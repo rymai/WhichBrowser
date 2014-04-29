@@ -1,0 +1,20 @@
+{
+    "name": "which-browser/which-browser",
+    "description": "Device & browser user-agent detection.",
+    "homepage": "http://github.com/NielsLeenheer/WhichBrowser",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Niels Leenheer",
+            "email": "niels@leenheer.nl",
+            "homepage": "http://rakaz.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["libraries/"]
+    }
+}
